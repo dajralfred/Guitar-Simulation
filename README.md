@@ -1,7 +1,7 @@
 # Guitar-Simulation
 This project aims to simulate an acoustic guitar through the implementation of the Karplus-Strong (KS) Algorithm.
 
-Further information on this project can be found in the file *'Simple Electronic Guitar Project Report.pdf'*
+Further information on this project can be found in the file *'Final Version of Simple Electronic Guitar Project Report.pdf'*
 
 The folder *'Old Computer Version'* contains the original computer version of the project.  Run the file *'Computer_Version_of_ElectronicGuitarTest.py'* on a computer with all the required Python modules preinstalled in order to test the program.
 
